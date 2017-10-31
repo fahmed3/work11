@@ -1,0 +1,25 @@
+h1 {
+    color: orange;
+    text-align: center;
+    font: 50px arial bold;
+}
+
+h3 {
+    color: salmon;
+    font: 25px arial bold;
+}
+
+h2 {
+    color: salmon;
+    font: 30px arial bold;
+}
+
+a {
+    color: green;
+    background: yellow;
+    border: 1px solid green;
+}
+
+body{
+    border: 5px solid red;
+}
