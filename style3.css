@@ -1,0 +1,43 @@
+h1, h2, h3{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color: #E4FDE1;
+}
+
+h1{
+    font-size: 100px;
+    color: #648381;
+}
+
+h2{
+    font-size: 60px;
+}
+
+h3{
+    font-size: 40px;
+}
+
+ul {
+    color: white;
+}
+
+body{
+    background: #35605A;
+}
+
+a, p{
+    color: #E4FDE1;
+}
+
+.extreme{
+    background: black;
+}
+
+.navzone {
+    border: 10px solid black;
+    margin: 2cm 17cm 2cm 17cm;
+}
+
+.content {
+    background: black;
+}
