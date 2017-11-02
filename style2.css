@@ -6,6 +6,7 @@ h1, h2, h3{
 
 h1{
     font-size: 100px;
+    color: black;
 }
 
 h2{
@@ -17,7 +18,7 @@ h3{
 }
 
 ul {
-    text-align: center;
+    color: white;
 }
 
 body{
@@ -26,4 +27,17 @@ body{
 
 a, p{
     color: orange;
+    margin: 2cm 3cm 2cm 3cm;
+}
+
+.extreme{
+    background: orange;
+}
+
+.navzone {
+    border: 100px solid black;
+}
+
+.content {
+    background: black;
 }

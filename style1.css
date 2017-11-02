@@ -2,24 +2,37 @@ h1 {
     color: orange;
     text-align: center;
     font: 50px arial bold;
+    letter-spacing: 30px;
+}
+
+h2, h3 {
+    color: salmon;
+    margin: 1cm 3cm 0cm 1cm;
 }
 
 h3 {
-    color: salmon;
     font: 25px arial bold;
 }
 
 h2 {
-    color: salmon;
     font: 30px arial bold;
 }
 
-a {
+ul {
+    margin: 0.5cm 3cm 1cm 1cm;
     color: green;
-    background: yellow;
-    border: 1px solid green;
 }
 
 body{
     border: 5px solid red;
 }
+
+.navzone, .content {
+    border: 1px solid red;
+    margin: 3cm 2cm 3cm 2cm;
+}
+
+p {
+    margin: 1cm 3cm 1cm 1cm;
+}
+
